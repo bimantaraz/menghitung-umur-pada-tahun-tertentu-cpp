@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int tahunLahir, tahunTujuan; // variabel tahub
+    int tahunLahir, tahunTujuan; // variabel tahun
 
     // Mengimputkan tahun kelahiran
     cout << "Masukkan tahun kelahiran Anda: ";
