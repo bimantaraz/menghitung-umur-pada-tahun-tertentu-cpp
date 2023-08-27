@@ -1,6 +1,6 @@
 # C++ menghitung umur pada tahun tertentu
-Code C++ untuk menghitung umur seseorang pada tahun tertentu berdasarkan tahun kelahiran yang diinputkan:
 
+Menghitung umur seseorang pada tahun tertentu berdasarkan tahun kelahiran yang di inputkan:
 
 output:
 
