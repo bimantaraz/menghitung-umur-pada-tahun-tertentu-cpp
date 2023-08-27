@@ -8,11 +8,11 @@ int main() {
 
     // Mengimputkan tahun kelahiran
     cout << "Masukkan tahun kelahiran Anda: ";
-    cin >> tahunLahir;
+    cin >> tahunLahir; // contoh: 2006
 
     // Mengimputkan tahun tujuan untuk menghitung umur
     cout << "Masukkan tahun tujuan: ";
-    cin >> tahunTujuan;
+    cin >> tahunTujuan; // contoh: 2035 
 
     // Mendapatkan tahun saat ini
     time_t now = time(0);
